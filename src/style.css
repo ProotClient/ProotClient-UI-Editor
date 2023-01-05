@@ -1,0 +1,22 @@
+button {
+    width: 180px;
+    text-align: left;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown_buttons {
+    display: none;
+    position: absolute;
+}
+
+.dropdown:hover .dropdown_buttons {
+    display: block;
+}
+
+div {
+    display: inline;
+}
