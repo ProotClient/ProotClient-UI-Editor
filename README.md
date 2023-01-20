@@ -1,3 +1,5 @@
+<center><img src="README-Disclaimer-Banner.png"></img></center>
+
 <center><img src="ProotClient-UI-Editor-Logo.png"></img></center>
 
 # ProotClient UI Editor
